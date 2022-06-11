@@ -1,0 +1,30 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "author": "",
+  "files": [
+    "dashboard",
+    "graphics",
+    "extension.js",
+    "extension"
+  ],
+  "keywords": [
+    "",
+    "nodecg-bundle"
+  ],
+  "nodecg": {
+    "compatibleRange": "^1.1.1"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "tmi.js": "^1.8.5"
+  },
+  "repository": "git@github.com:rodg/rrlat-chat-bot.git"
+}
