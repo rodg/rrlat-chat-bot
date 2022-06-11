@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Chat bot props",
+    "properties": {
+        "TWITCH_OAUTH_TOKEN":{
+        "type": "string"
+        }
+    }
+}
